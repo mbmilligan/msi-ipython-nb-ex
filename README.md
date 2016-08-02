@@ -9,10 +9,12 @@ Getting started
 You can clone a copy of this repository using git, for example:
 
     git clone https://github.com/mbmilligan/msi-ipython-nb-ex
+    
+If you have a web browser and are connected to the UMN network, you can access our JupyterHub server at: [notebooks.msi.umn.edu](https://notebooks.msi.umn.edu)
 
 If you are at a command line at the MSI, the commands
 
-    module load python-epd
+    module load python
     cd msi-ipython-nb-ex
     ipython notebook
 
