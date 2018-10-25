@@ -9,6 +9,7 @@ dependencies:
   - cython
   - dask
   - dill
+  - geopandas
   - ipyparallel
   - ipython
   - ipywidgets
@@ -24,5 +25,6 @@ dependencies:
   - scikit-image
   - scikit-learn
   - scipy
+  - seaborn
   - sympy
   - toolz
