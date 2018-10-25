@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mbmilligan/msi-ipython-nb-ex/master)
+
 Python Examples for MSI
 =======================
 
@@ -19,3 +21,5 @@ If you are at a command line at the MSI, the commands
     ipython notebook
 
 will start the Jupyter notebook system in your web browser. From there, you can open the saved IPython notebooks (files with the extension .ipynb) by clicking on them.
+
+If you do not have access to a Python environment right now, you can click on the Binder badge above to run these examples through [Mybinder.org](https://mybinder.org/) in a temporary environment. 
