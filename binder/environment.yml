@@ -1,0 +1,30 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - basemap
+  - bokeh
+  - cartopy
+  - cython
+  - dask
+  - dill
+  - geopandas
+  - ipyparallel
+  - ipython
+  - ipywidgets
+  - matplotlib
+  - memory_profiler
+  - mpi4py
+  - networkx
+  - numpy
+  - pandas
+  - netcdf4
+  - partd
+  - psutil
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - seaborn
+  - sympy
+  - toolz
