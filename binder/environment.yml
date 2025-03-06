@@ -2,7 +2,7 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - python=3.6
+  - python=3.9
   - basemap
   - bokeh
   - cartopy
@@ -17,6 +17,8 @@ dependencies:
   - memory_profiler
   - mpi4py
   - networkx
+  - numba
+  - numexpr
   - numpy
   - pandas
   - netcdf4
@@ -28,3 +30,4 @@ dependencies:
   - seaborn
   - sympy
   - toolz
+  - tqdm
