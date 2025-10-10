@@ -3,7 +3,7 @@
 Python Examples for MSI
 =======================
 
-The IPython notebooks in this repository accompany the Python for Scientific Computing workshop hosted by the Minnesota Supercomputing Institute. Visit https://www.msi.umn.edu/tutorials/python-scientific-computing for details and a PDF copy of the slides.
+The Jupyter notebooks in this repository accompany the Python for Scientific Computing workshop hosted by the Minnesota Supercomputing Institute. Visit https://msi.umn.edu/tutorials/advanced-python-msi for details and a link to the accompanying slides. There are videos available of past MSI tutorials on the [MSI Youtube channel](https://www.youtube.com/@UofMMSI). The most recent video of this tutorial [can be found here](https://www.youtube.com/watch?v=_3trx-MvGn8).
 
 Getting started
 ---------------
@@ -12,14 +12,8 @@ You can clone a copy of this repository using git, for example:
 
     git clone https://github.com/mbmilligan/msi-ipython-nb-ex
     
-If you have a web browser and are connected to the UMN network, you can access our JupyterHub server at: [notebooks.msi.umn.edu](https://notebooks.msi.umn.edu)
+If you have a web browser and are connected to the UMN network, you can access our OnDemand interactive services and start a Jupyter session at [https://ondemand.msi.umn.edu/](https://ondemand.msi.umn.edu/). 
 
-If you are at a command line at the MSI, the commands
-
-    module load python
-    cd msi-ipython-nb-ex
-    ipython notebook
-
-will start the Jupyter notebook system in your web browser. From there, you can open the saved IPython notebooks (files with the extension .ipynb) by clicking on them.
+You can also explore these demos on your own computer using an installation of Python with the necessary computational and scientific packages installed. See the file `binder/environment.yml` for a package list that is sufficient to run the notebooks here. 
 
 If you do not have access to a Python environment right now, you can click on the Binder badge above to run these examples through [Mybinder.org](https://mybinder.org/) in a temporary environment. 
