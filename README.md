@@ -3,7 +3,7 @@
 Python Examples for MSI
 =======================
 
-The Jupyter notebooks in this repository accompany the Python for Scientific Computing workshop hosted by the Minnesota Supercomputing Institute. Visit https://msi.umn.edu/tutorials/advanced-python-msi for details and a link to the accompanying slides. There are videos available of past MSI tutorials on the [MSI Youtube channel](https://www.youtube.com/@UofMMSI). The most recent video of this tutorial [can be found here](https://www.youtube.com/watch?v=_3trx-MvGn8).
+The Jupyter notebooks in this repository accompany the Python for Scientific Computing workshop hosted by the Minnesota Supercomputing Institute. Visit https://msi.umn.edu/tutorials/advanced-python-msi for details and a link to the accompanying slides. There are videos available of past MSI tutorials on the [MSI Youtube channel](https://www.youtube.com/@UofMMSI). The most recent video of this tutorial [can be found here](https://www.youtube.com/watch?v=MhnFTwtbKZM).
 
 Getting started
 ---------------
